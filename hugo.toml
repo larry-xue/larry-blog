@@ -1,0 +1,52 @@
+baseURL = 'https://blog.larryxue.de'
+languageCode = 'en-us'
+title = 'Yujian 的自留地'
+theme = 'PaperMod'
+
+[params]
+  [params.homeInfoParams]
+    Title = 'Exploring the World and Me'
+    Content = '一个活着的人'
+    Image = 'images/hero-img.png'
+    AlignSocialIconsTo = 'left'
+
+[[params.socialIcons]]
+  name = "GitHub"
+  url = "https://github.com/larry-xue"
+[[params.socialIcons]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/larry-xue-588386212/"
+[[params.socialIcons]]
+  name = "Email"
+  url = "mailto:azoux0311@gmail.com"
+[[params.socialIcons]]
+  url = "https://larryxue.dev"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[menus]
+  [[menus.main]]
+    name = "Search"
+    url = "/search"
+    weight = 100
+    identifier = "search"
+    pre = "<i class='fas fa-search'></i>"
+  [[menus.main]]
+    name = "Memos"
+    url = "/memos"
+    weight = 70
+    identifier = "memos"
+    pre = "<i class='fas fa-memo'></i>"
+  [[menus.main]]
+    name = "Posts"
+    url = "/posts"
+    weight = 80
+    identifier = "posts"
+    pre = "<i class='fas fa-file-alt'></i>"
+  [[menus.main]]
+    name = "Archive"
+    url = "/archives"
+    weight = 90
+    identifier = "archives"
+    pre = "<i class='fas fa-archive'></i>"

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Memos on Yujian 的自留地</title>
+    <link>http://localhost:10095/memos/</link>
+    <description>Recent content in Memos on Yujian 的自留地</description>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:10095/memos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>yujian 的自留地 20240923</title>
+      <link>http://localhost:10095/memos/20240923/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:10095/memos/20240923/</guid>
+      <description>&lt;p&gt;拖延了这么久的博客终于是搭建好了，虽然还有很多不完善的地方，但是至少可以开始记录了。&lt;/p&gt;
+&lt;p&gt;记起来第一次搭建博客还是在 2019 年，当时我还是大二吧，正值covid期间，每天热衷于折腾一些奇怪的东西，但是大都是看着脚本，用着一键脚本。&lt;/p&gt;
+&lt;p&gt;现在想起，当时的我比起现在，真的执着了很多，甚至是固执。&lt;/p&gt;
+&lt;p&gt;当时搭建博客也只是满足自己的虚荣心，觉得有自己博客是一件很酷的事情。但总是流于形式，没有什么有意义的内容。&lt;/p&gt;
+&lt;p&gt;那时对于博客、文章的理解还局限于写一些技术文章，放到网上让人来阅读。&lt;/p&gt;
+&lt;p&gt;现在，我更倾向于把博客当作记录自己生活的地方，记录自己在这个社会上存在的痕迹。&lt;/p&gt;
+&lt;p&gt;所以这次的博客就一切从简（希望如此，就当作是一个日记本吧。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
