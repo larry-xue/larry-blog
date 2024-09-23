@@ -20,7 +20,11 @@ theme = 'PaperMod'
   name = "Email"
   url = "mailto:azoux0311@gmail.com"
 [[params.socialIcons]]
+  name = "Portfolio"
   url = "https://larryxue.dev"
+[[params.socialIcons]]
+  name = "RSS"
+  url = "https://blog.larryxue.dev/index.xml"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
