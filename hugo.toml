@@ -5,6 +5,7 @@ theme = 'PaperMod'
 
 [params]
   [params.homeInfoParams]
+    enabled = true
     Title = 'Exploring the World and Me'
     Content = '一个活着的人'
     Image = 'images/hero-img.png'
