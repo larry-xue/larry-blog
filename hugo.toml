@@ -40,17 +40,17 @@ home = [ "HTML", "RSS", "JSON" ]
     identifier = "search"
     pre = "<i class='fas fa-search'></i>"
   [[menus.main]]
-    name = "Memos"
-    url = "/memos"
-    weight = 70
-    identifier = "memos"
-    pre = "<i class='fas fa-memo'></i>"
-  [[menus.main]]
     name = "Posts"
     url = "/posts"
     weight = 80
     identifier = "posts"
     pre = "<i class='fas fa-file-alt'></i>"
+  [[menus.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 85
+    identifier = "tags"
+    pre = "<i class='fas fa-tags'></i>"
   [[menus.main]]
     name = "Archive"
     url = "/archives"

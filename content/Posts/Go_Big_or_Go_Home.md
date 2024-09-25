@@ -1,6 +1,7 @@
 +++
 title = 'Go Big or Go Home'
 date = 2024-09-25T18:59:44+08:00
+tags = ["memo"]
 +++
 
 ![Go Big or Go Home](https://859fadd.webp.li/08720f0bd54bebc73a2ac85e4c1e07a.jpg)
