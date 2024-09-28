@@ -4,8 +4,15 @@ title = 'Yujian 的自留地'
 theme = 'PaperMod'
 enableEmoji = true
 enableRobotsTXT = true
+hasCJKLanguage = true
+showReadingTime = true
+showWordCount = true
 
 [params]
+author = "Yujian"
+ShowRssButtonInSectionTermList = true
+ShowReadingTime = true
+ShowWordCount = true
   [params.homeInfoParams]
     enabled = true
     Title = 'Exploring the World and Me'
