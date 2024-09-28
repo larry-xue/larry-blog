@@ -20,6 +20,9 @@ ShowWordCount = true
     Image = 'images/hero-img.png'
     AlignSocialIconsTo = 'left'
 
+  [params.busuanzi]
+    enable = true
+
 [[params.socialIcons]]
   name = "GitHub"
   url = "https://github.com/larry-xue"
