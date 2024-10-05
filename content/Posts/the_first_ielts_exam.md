@@ -1,6 +1,7 @@
 +++
 title = '雅思首考即裸考orzzzz'
 date = 2024-09-28T21:20:14+08:00
+tags = ["ielts", "language"]
 +++
 
 ## 流水账

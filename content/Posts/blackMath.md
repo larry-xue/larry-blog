@@ -1,7 +1,7 @@
 +++
 title = "黑神话悟空"
 date = 2024-10-05T11:57:05+08:00
-tag = ["game"]
+tags = ["game"]
 [cover]
 image = "https://859fadd.webp.li/749ed0a9edd163df0ecb874cf5dcc2c.jpg"
 +++
