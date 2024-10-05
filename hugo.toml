@@ -1,6 +1,6 @@
 baseURL = 'https://blog.larryxue.dev'
 languageCode = 'en-us'
-title = 'Yujian 的自留地'
+title = "Yujian's blog"
 theme = 'PaperMod'
 enableEmoji = true
 enableRobotsTXT = true
