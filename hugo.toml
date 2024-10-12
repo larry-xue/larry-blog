@@ -13,6 +13,7 @@ author = "Yujian"
 ShowRssButtonInSectionTermList = true
 ShowReadingTime = true
 ShowWordCount = true
+ShowFullTextinRSS = true
   [params.homeInfoParams]
     enabled = true
     Title = 'Exploring the World and Me'
